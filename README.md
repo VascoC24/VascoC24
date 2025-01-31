@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Vasco Sousa! 👋
 
 👨‍💻 **Computer Engineer** | ☁️ **Cloud Enthusiast** | 🌍 **Portugal**  
 🔗 **Portfolio:** In Progress  
@@ -9,13 +9,13 @@
 
 ## About Me
 
-I'm a recent Computer Engineering graduate with a passion for cloud computing, software development, and solving real-world problems through technology. I enjoy learning new tools and technologies and applying them to build scalable and efficient solutions. My areas of interest include:
+I'm a recent Computer Engineering graduate and am passionate about leaning and improving. Currently, I am focused on getting my Azure AZ-104 certification to enhance my expertise in cloud solutions. I enjoy learning new tools and technologies and applying them to build scalable and efficient solutions. My areas of interest include
 
 - ☁️ **Cloud Computing** (Azure)
 - 🛠️ **DevOps & Automation**
 - 💻 **Software Development** (Backend/Frontend/Fullstack)
 
-I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, which has given me a solid foundation in cloud concepts and Azure services. I'm excited to continue growing in the cloud space and exploring advanced certifications.
+I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, which has given me a solid foundation in cloud concepts and Azure services.
 
 ---
 
@@ -38,14 +38,11 @@ I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, w
 
 ## Projects
 
-### ☁️ [Cloud-Based Web Application](Link to Repository)
-A scalable web application deployed on Azure using App Services, Azure SQL, and Azure DevOps for CI/CD.
+### ☁️ [Cloud-Based Azure Resume](Link to Repository](https://github.com/VascoC24/azure-resume)
+A azure based resume, using Functions and a blob storage to host the website.
 
-### 🤖 [Machine Learning Model for Predictive Analysis](Link to Repository)
-A Python-based ML model for predictive analysis, deployed using Docker and Azure Machine Learning.
-
-### 🛠️ [Automated Deployment Pipeline](Link to Repository)
-A CI/CD pipeline using GitHub Actions, Docker, and Kubernetes for automated deployment.
+### 🤖 [Machine Learning Model for Predictive Analysis In Progress](Link to Repository)
+A python-based ML model for predictive analysis! Not yet implemented into azure.
 
 ---
 
@@ -53,12 +50,6 @@ A CI/CD pipeline using GitHub Actions, Docker, and Kubernetes for automated depl
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**  
   Validated my understanding of cloud concepts, Azure services, and cloud security.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VascoC24&show_icons=true&theme=radical)
 
 ---
 
