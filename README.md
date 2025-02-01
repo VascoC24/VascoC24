@@ -38,10 +38,10 @@ I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, w
 
 ## Projects
 
-### ☁️ [Cloud-Based Azure Resume](Link to Repository](https://github.com/VascoC24/azure-resume)
+### ☁️ [Cloud-Based Azure Resume](https://github.com/VascoC24/azure-resume)
 A azure based resume, using Functions and a blob storage to host the website.
 
-### 🤖 [Machine Learning Model for Predictive Analysis In Progress](Link to Repository)
+### 🤖 [Machine Learning Model for Predictive Analysis](https://github.com/VascoC24/BrainMRIML)
 A python-based ML model for predictive analysis! Not yet implemented into azure.
 
 ---
