@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a recent Computer Engineering graduate and am passionate about leaning and improving. Currently, I am focused on getting my Azure AZ-104 certification to enhance my expertise in cloud solutions. I enjoy learning new tools and technologies and applying them to build scalable and efficient solutions. My areas of interest include
+I'm a recent Computer Engineering graduate and am passionate about learning and improving. Currently, I am focused on getting my Azure AZ-104 certification to enhance my expertise in cloud solutions. I enjoy learning new tools and technologies and applying them to build scalable and efficient solutions. My areas of interest include
 
 - ☁️ **Cloud Computing** (Azure)
 - 🛠️ **DevOps & Automation**
@@ -44,6 +44,9 @@ A azure based resume, using Functions and a blob storage to host the website.
 ### 🤖 [Machine Learning Model for Predictive Analysis](https://github.com/VascoC24/BrainMRIML)
 A python-based ML model for predictive analysis! Not yet implemented into azure.
 
+### 🔧 [Azure VM using Terraform](https://github.com/VascoC24/TerraformAzure)
+A terraform configuration used to automate vm implementation.
+
 ---
 
 ## Certifications
@@ -57,8 +60,8 @@ A python-based ML model for predictive analysis! Not yet implemented into azure.
 
 I'm always open to collaborating on interesting projects or discussing cloud, software development, and tech in general. Feel free to reach out:
 
-🔗 **LinkedIn:** [Link to your LinkedIn]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]
 
 ---
 
-⭐ **Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!**
