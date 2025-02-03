@@ -21,14 +21,15 @@ I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, w
 
 ## Technical Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Scripting Languages
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
+
 
 ### Tools & Frameworks
 ![.NET](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
