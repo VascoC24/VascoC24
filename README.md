@@ -52,11 +52,11 @@ A terraform configuration used to automate vm implementation.
 
 ## Certifications
 
-✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+✅ Microsoft Azure Fundamentals (AZ-900)
 
 🎯 Currently Pursuing:
 
-🔹 Microsoft Certified: Azure Administrator Associate (AZ-104)
+🔹 Microsoft Azure Administrator Associate (AZ-104)
 
 ---
 
