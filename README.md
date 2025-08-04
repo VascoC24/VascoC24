@@ -32,7 +32,7 @@ These are my areas of interest:
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Databases
