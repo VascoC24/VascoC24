@@ -1,7 +1,7 @@
 # Hi, I'm Vasco Sousa! 👋
 
-👨‍💻 **Computer Engineer** | ☁️ **Cloud Enthusiast** | 🌍 **Portugal**  
-🔗 **Portfolio:** In Progress  
+👨‍💻 **SysAdmin Intern** | ☁️ **Cloud Enthusiast** | 🌍 **Portugal**  
+🔗 **Portfolio:** [portfolio.vsousa.pt]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]  
 🔗 **Certifications:** Microsoft AZ-900 (Azure Fundamentals)
 
@@ -9,13 +9,19 @@
 
 ## About Me
 
-I'm a recent Computer Engineering graduate and am passionate about learning and improving. Currently, I am focused on getting my Azure AZ-104 certification to enhance my expertise in cloud solutions. I enjoy learning new tools and technologies and applying them to build scalable and efficient solutions. My areas of interest include
+Currently doing an internship as a **System Administrator**, where I work with:
 
+- 🛠️ Group Policies (GPOs)
+- 🧩 Active Directory
+- 🖥️ Infrastructure & Networking
+- 🆘 Helpdesk & Support
+
+Right now other than my job, I am focused on getting my **Azure AZ-104** certification to enhance my expertise in cloud solutions. My goal is to grow in the **Cloud Computing** space, focusing on automation, scalability and security.
+
+These are my areas of interest:
 - ☁️ **Cloud Computing** (Azure)
 - 🛠️ **DevOps & Automation**
-- 💻 **Software Development** (Backend/Frontend/Fullstack)
-
-I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, which has given me a solid foundation in cloud concepts and Azure services.
+- 💻 **System Administrator** (GPOs/AD/Networks/Infrastructure)
 
 ---
 
@@ -27,6 +33,7 @@ I recently earned the **Microsoft AZ-900 (Azure Fundamentals)** certification, w
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
