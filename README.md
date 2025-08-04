@@ -1,7 +1,7 @@
 # Hi, I'm Vasco Sousa! 👋
 
 👨‍💻 **SysAdmin Intern** | ☁️ **Cloud Enthusiast** | 🌍 **Portugal**  
-🔗 **Portfolio:** [portfolio.vsousa.pt]  
+🔗 **Portfolio:** [https://portfolio.vsousa.pt/]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]  
 🔗 **Certifications:** Microsoft AZ-900 (Azure Fundamentals)
 
