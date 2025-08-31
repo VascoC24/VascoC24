@@ -58,6 +58,7 @@ A terraform configuration used to automate vm implementation.
 
 ### 📤 [Azure File Sharing Website](https://github.com/VascoC24/AzureUploadShares)
 A Flask-based web application hosted on azure to share files via SAS.
+
 ---
 
 ## Certifications
