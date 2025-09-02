@@ -50,14 +50,14 @@ These are my areas of interest:
 ### ☁️ [Cloud-Based Azure Resume](https://github.com/VascoC24/azure-resume)
 A azure based resume, using Functions and a blob storage to host the website.
 
-### 🤖 [Machine Learning Model for Predictive Analysis](https://github.com/VascoC24/BrainMRIML)
-A python-based ML model for predictive analysis! Not yet implemented into azure.
-
 ### 🔧 [Azure VM using Terraform](https://github.com/VascoC24/TerraformAzure)
 A terraform configuration used to automate vm implementation.
 
 ### 📤 [Azure File Sharing Website](https://github.com/VascoC24/AzureUploadShares)
 A Flask-based web application hosted on azure to share files via SAS.
+
+### 🤖 [Machine Learning Model for Predictive Analysis](https://github.com/VascoC24/BrainMRIML)
+A python-based ML model for predictive analysis! Not yet implemented into azure.
 
 ---
 
