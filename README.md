@@ -1,6 +1,6 @@
 # Hi, I'm Vasco Sousa! 👋
 
-👨‍💻 **SysAdmin Intern** | ☁️ **Cloud Enthusiast** | 🌍 **Portugal**  
+👨‍💻 **SysAdmin Intern** | ☁️ **Cloud** | 🌍 **Portugal**  
 🔗 **Portfolio:** [https://portfolio.vsousa.pt/]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]  
 🔗 **Certifications:** Microsoft AZ-900 (Azure Fundamentals)
@@ -16,10 +16,10 @@ Currently doing an internship as a **System Administrator**, where I work with:
 - 🖥️ Infrastructure & Networking
 - 🆘 Helpdesk & Support
 
-Right now other than my job, I am focused on getting my **Azure AZ-104** certification to enhance my expertise in cloud solutions. My goal is to grow in the **Cloud Computing** space, focusing on automation, scalability and security.
+Right now other than my job, I am focused on getting my **Azure AZ-104** certification to enhance my expertise in cloud solutions. My goal is to grow in the **Cloud** space, focusing on automation, scalability and security.
 
 These are my areas of interest:
-- ☁️ **Cloud Computing** (Azure)
+- ☁️ **Cloud Infrastructure** (Azure)
 - 🛠️ **DevOps & Automation**
 - 💻 **System Administrator** (GPOs/AD/Networks/Infrastructure)
 
