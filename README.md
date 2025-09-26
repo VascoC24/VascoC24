@@ -3,7 +3,7 @@
 👨‍💻 **SysAdmin Intern** | ☁️ **Cloud** | 🌍 **Portugal**  
 🔗 **Portfolio:** [https://portfolio.vsousa.pt/]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]  
-🔗 **Certifications:** Microsoft AZ-900 (Azure Fundamentals)
+🔗 **Certifications:** AZ-900 / AZ-104 (Exam Scheduled)
 
 ---
 
