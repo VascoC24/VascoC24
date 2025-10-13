@@ -3,7 +3,7 @@
 👨‍💻 **SysAdmin Intern** | ☁️ **Cloud** | 🌍 **Portugal**  
 🔗 **Portfolio:** [https://portfolio.vsousa.pt/]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/vascomsousa/]  
-🔗 **Certifications:** AZ-900 / AZ-104 (Exam Scheduled)
+🔗 **Certifications:** AZ-900 & AZ-104 
 
 ---
 
@@ -64,10 +64,7 @@ A python-based ML model for predictive analysis! Not yet implemented into azure.
 ## Certifications
 
 ✅ Microsoft Azure Fundamentals (AZ-900)
-
-🎯 Currently Pursuing:
-
-🔹 Microsoft Azure Administrator Associate (AZ-104)
+✅ Microsoft Azure Administrator Associate (AZ-104)
 
 ---
 
