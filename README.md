@@ -64,6 +64,7 @@ A python-based ML model for predictive analysis! Not yet implemented into azure.
 ## Certifications
 
 ✅ Microsoft Azure Fundamentals (AZ-900)
+
 ✅ Microsoft Azure Administrator Associate (AZ-104)
 
 ---
