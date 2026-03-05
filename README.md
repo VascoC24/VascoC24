@@ -26,10 +26,6 @@ These are my areas of interest:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=database&logoColor=white)
-
-
 ### Tools & Frameworks
 ![.NET](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
