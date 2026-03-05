@@ -9,15 +9,6 @@
 
 ## About Me
 
-Currently doing an internship as a **System Administrator**, where I work with:
-
-- 🛠️ Group Policies (GPOs)
-- 🧩 Active Directory
-- 🖥️ Infrastructure & Networking
-- 🆘 Helpdesk & Support
-
-Right now other than my job, I am focused on getting my **Azure AZ-104** certification to enhance my expertise in cloud solutions. My goal is to grow in the **Cloud** space, focusing on automation, scalability and security.
-
 These are my areas of interest:
 - ☁️ **Cloud Infrastructure** (Azure)
 - 🛠️ **DevOps & Automation**
